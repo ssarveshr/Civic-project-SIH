@@ -1,0 +1,121 @@
+.happening-now1 {
+    margin: 0;
+}
+.happening-now {
+    position: absolute;
+    top: 15px;
+    left: 905px;
+    font-size: 64px;
+    font-weight: 800;
+    display: inline-block;
+    width: 514px;
+    height: 106px;
+}
+.join-today {
+    position: absolute;
+    top: 124px;
+    left: 905px;
+    font-size: 50px;
+    font-weight: 800;
+    display: inline-block;
+    width: 326px;
+    height: 72px;
+}
+.opening-window-child {
+    position: absolute;
+    top: 223px;
+    left: 905px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    backdrop-filter: blur(70.8px);
+    border-radius: 38.5px;
+    background-color: rgba(255, 255, 255, 0.21);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 509px;
+    height: 247px;
+}
+.opening-window-item {
+    position: absolute;
+    top: 511px;
+    left: 905px;
+    border-radius: 38.5px;
+    background-color: #3aafb9;
+    width: 509px;
+    height: 60px;
+}
+.opening-window-inner {
+    position: absolute;
+    top: 700px;
+    left: 905px;
+    border-radius: 38.5px;
+    background-color: #093a3e;
+    border: 3px solid #3aafb9;
+    box-sizing: border-box;
+    width: 509px;
+    height: 60px;
+    cursor: pointer;
+}
+.sign-in {
+    position: absolute;
+    top: 707px;
+    left: 1117px;
+    letter-spacing: -0.06em;
+    display: inline-block;
+    width: 86px;
+    height: 39px;
+}
+.create-account {
+    position: absolute;
+    top: 519px;
+    left: 1054px;
+    letter-spacing: -0.06em;
+    display: inline-block;
+    width: 211px;
+    height: 34px;
+}
+.already-have-an {
+    position: absolute;
+    top: 655px;
+    left: 983px;
+    font-weight: 100;
+    font-family: 'M PLUS 1p';
+    display: inline-block;
+    width: 354px;
+}
+.terms-of-service1 {
+    text-decoration: underline;
+}
+.terms-of-service {
+    color: inherit;
+}
+.by-signing-up-container {
+    position: absolute;
+    top: 575px;
+    left: 979px;
+    font-size: 16px;
+    font-weight: 100;
+    font-family: 'M PLUS 1p';
+    display: inline-block;
+    width: 354px;
+}
+.the-civic-crew-logo-1 {
+    position: absolute;
+    top: 101px;
+    left: 90px;
+    border-radius: 269px;
+    width: 538px;
+    height: 538px;
+    object-fit: cover;
+}
+.opening-window {
+    width: 100%;
+    position: relative;
+    background-color: #093a3e;
+    height: 782px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'DM Sans';
+}
+
