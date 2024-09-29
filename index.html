@@ -21,7 +21,7 @@
     		<div class="join-today">join today.</div>
     		<div class="opening-window-child">
     		</div>
-    		<div class="opening-window-item">
+    		<div class="cre-acc" id="creacc">
     		</div>
     		<div class="opening-window-inner" id="rectangle2">
     		</div>
@@ -52,5 +52,11 @@
       			rectangle2.addEventListener("click", function (e) {
         				window.location.href='https://www.youtube.com'
       			});
-    		}</script></body>
+			}
+			var creacc=document.getElementById("creacc");
+			if(creacc){
+				creacc.addEventListener("click",function(e){
+					window.location.href='https://www.rnsit.ac.in'
+				});
+			}</script></body>
 </html>

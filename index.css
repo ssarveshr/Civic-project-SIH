@@ -34,7 +34,7 @@
     width: 509px;
     height: 247px;
 }
-.opening-window-item {
+.cre-acc {
     position: absolute;
     top: 511px;
     left: 905px;
@@ -42,6 +42,7 @@
     background-color: #3aafb9;
     width: 509px;
     height: 60px;
+    cursor: pointer;
 }
 .opening-window-inner {
     position: absolute;
