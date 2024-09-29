@@ -48,8 +48,10 @@
     top: 700px;
     left: 905px;
     border-radius: 38.5px;
-    background-color: #093a3e;
-    border: 3px solid #3aafb9;
+    background-color: #000000;
+    color: #fff;
+    font-size: 33;
+    border: 3px solid #000000;
     box-sizing: border-box;
     width: 509px;
     height: 60px;
